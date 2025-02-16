@@ -34,6 +34,7 @@ Now, I am **transitioning into data analytics and AI**, applying **SQL, Python, 
 ---
 
 ## Connect with Me  
+- **EMAIL:** carissa.mccray@gmail.com 
 - **LinkedIn:** [Carissa McCray, Ph.D.](https://www.linkedin.com/in/carissa-mccray-phd)  
 - **CRM Education Group:** [crmeducationgroup.org](https://crmeducationgroup.org/)  
 - **GitHub Portfolio:** [Your GitHub Profile](https://github.com/yourgithubusername)  
