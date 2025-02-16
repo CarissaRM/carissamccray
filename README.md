@@ -7,7 +7,7 @@ Now, I am **transitioning into data analytics and AI**, applying **SQL, Python, 
 
 ---
 
-## 📊 Data Projects  
+## Data Projects  
 
 ### **1. Analyzing Literacy Trends**
 - Explored literacy assessment data to identify **performance trends** and **gaps** among student demographics.
@@ -23,7 +23,7 @@ Now, I am **transitioning into data analytics and AI**, applying **SQL, Python, 
 
 ---
 
-## 🔧 Technical Skills  
+## Technical Skills  
 
 - **Programming & Databases:** SQL, Python, Pandas, NumPy  
 - **Data Visualization & BI Tools:** Tableau, Power BI  
@@ -33,9 +33,9 @@ Now, I am **transitioning into data analytics and AI**, applying **SQL, Python, 
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 - **LinkedIn:** [Carissa McCray, Ph.D.](https://www.linkedin.com/in/carissa-mccray-phd)  
 - **CRM Education Group:** [crmeducationgroup.org](https://crmeducationgroup.org/)  
 - **GitHub Portfolio:** [Your GitHub Profile](https://github.com/yourgithubusername)  
 
-🚀 **Let's collaborate on data-driven solutions for education and equity!**
+**Let's collaborate on data-driven solutions for education and equity!**
